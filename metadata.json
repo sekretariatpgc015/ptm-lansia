@@ -1,0 +1,5 @@
+{
+  "name": "Form PTM Lansia",
+  "description": "Aplikasi input data Pemeriksaan Tidak Menular (PTM) untuk Lansia dengan fitur auto-fill data dari Google Sheets.",
+  "requestFramePermissions": []
+}
